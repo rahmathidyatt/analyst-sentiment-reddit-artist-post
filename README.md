@@ -55,7 +55,7 @@ The analysis follows a structured machine learning pipeline:
 6. **Model Evaluation**
    - Accuracy
    - Classification Report
-   - Confusion Matrix and Heatmap Visualization
+   - Confusion Matrix and Heatmap Visualization.
 
 ---
 
