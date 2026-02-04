@@ -59,7 +59,7 @@ The analysis follows a structured machine learning pipeline:
 
 ---
 
-## 📊 Results
+## 📊Results
 
 The Naive Bayes model achieved the following performance on the test dataset:
 
