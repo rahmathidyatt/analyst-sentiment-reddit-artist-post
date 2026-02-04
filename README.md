@@ -19,7 +19,7 @@ sentiment classification pipeline suitable for academic study and portfolio use.
 
 ---
 
-## 📂 Dataset
+## 📂Dataset
 
 The dataset used in this project was obtained from **Kaggle**.
 It consists of Reddit posts related to artists along with sentiment labels.
