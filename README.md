@@ -7,7 +7,7 @@ imbalance, and a Naive Bayes classifier.
 
 ---
 
-## 📌 Overview
+## 📌Overview
 
 Sentiment analysis is a text mining technique used to identify and classify
 opinions or emotions expressed in textual data. In this project, Reddit posts
