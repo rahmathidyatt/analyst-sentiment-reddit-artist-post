@@ -31,7 +31,7 @@ purposes.
 
 ---
 
-## 🛠 Methodology
+## 🛠Methodology
 
 The analysis follows a structured machine learning pipeline:
 
