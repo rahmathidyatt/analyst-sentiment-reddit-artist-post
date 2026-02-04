@@ -80,7 +80,7 @@ or hyperparameter tuning.
 
 ---
 
-## 🧰 Tools & Libraries
+## 🧰Tools & Libraries
 
 - Python 3
 - pandas
