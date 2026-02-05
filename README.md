@@ -103,6 +103,6 @@ analyst-sentiment-reddit-artist-post/
 
 ---
 
-## 👤 Author
+## 👤Author
 
 **Rahmat Hidayat**  
