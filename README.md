@@ -91,7 +91,7 @@ or hyperparameter tuning.
 
 ---
 
-## 📁 Repository Structure
+## 📁Repository Structure
 
 analyst-sentiment-reddit-artist-post/
 │
